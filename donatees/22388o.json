@@ -2,14 +2,11 @@
   "name": "22388o",
   "github": "22388o",
   "twitter": "",
-  "mastodon": "Mastodon URL",
-  "donate": "Donation URL",
+  "mastodon": "https://22388o.github.io/",
   "avatar": "Avatar URL",
   "description": "Developer with focus on Bitcoin and Lightning.",
   "lightning": true,
-  "bolt12_single": "BOLT12 for a single offer",
-  "bolt12_recurring": "BOLT12 for a recurring offer",
-  "lnaddr": "Lightning address",
+  "lnaddr": "22388o@getalby.com",
   "tags": [
     "Bitcoin",
     "Lightning Network"
